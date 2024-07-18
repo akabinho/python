@@ -1,0 +1,2 @@
+r6, ubi, 150, 55.8
+valorant, riot, 140, 45.7
